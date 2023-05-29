@@ -1,4 +1,2 @@
-# macroclient
-SwiftUI TEST client for the macroserver project
-
-README to be done
+# MateZ SwiftUI
+This is a SwiftUI iOS client for the MateZ Server
