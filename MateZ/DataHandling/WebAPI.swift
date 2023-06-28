@@ -12,7 +12,7 @@ class WebAPI {
         case requestURLInvalid(String)
     }
     
-    let apiURLBase = "https://test.casarocco.keenetic.link"
+    let apiURLBase = "https://yourdomain.something"
     
     func logout(username: String) async throws -> String {
         let api = APIRequest<SimpleResponse>(
