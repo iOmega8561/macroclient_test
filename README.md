@@ -4,7 +4,7 @@ This is a SwiftUI iOS client for the MateZ Server, developed as a companion to s
 ![alt text](https://github.com/iOmega8561/MateZ_SwiftUI/blob/master/Screenshots/composition.png?raw=true)
 
 ## Features
-1) Custom swoft API that offers feature parity with MateZ server python API
+1) Custom Swift API that offers feature parity with MateZ server python API
 2) Awesome custom UI design and UX experience, well integrated with iOS' style
 3) Custom made assets (aside from game icons)
 4) Support for local authentication with FaceID and TouchID
